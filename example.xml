@@ -15,8 +15,7 @@
     </item>
     <item id="3" name="Item3">
         <description>Third item description</description>
-        <details>
-            <price>7.99</price>
+
             <stock>200</stock>
         </details>
     </item>
