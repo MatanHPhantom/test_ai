@@ -20,4 +20,11 @@
             <stock>200</stock>
         </details>
     </item>
+    <item id="4" name="InvalidItem">
+        <description>Invalid item description</description>
+        <details>
+            <price>-5.00</price>
+            <stock>-10</stock>
+        </details>
+    </item>
 </root>
