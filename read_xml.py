@@ -1,3 +1,13 @@
+"""
+This script provides functionality to read and print the structure of an XML file.
+
+Functions:
+- read_and_print_xml(file_path): Parses the XML file at the given path and prints its structure.
+
+Usage:
+Run the script and provide the path to an XML file when prompted.
+"""
+
 import xml.etree.ElementTree as ET
 
 def read_and_print_xml(file_path):
