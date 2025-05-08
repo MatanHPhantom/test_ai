@@ -1,0 +1,8 @@
+<root>
+    <item id="1" name="Item1">
+        <description>First item description</description>
+    </item>
+    <item id="2" name="Item2">
+        <description>Second item description</description>
+    </item>
+</root>
